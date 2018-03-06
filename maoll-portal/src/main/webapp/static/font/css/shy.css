@@ -1,0 +1,11 @@
+* {
+	margin: 0;
+	padding: 0;
+	}
+	.header {
+	width: 970px;
+	height: 103px;
+	/*居中*/
+	margin: 0 auto;
+	/*background-color: green;*/
+	}
